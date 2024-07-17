@@ -1,0 +1,7 @@
+Maskey Grocery Mart
+Date/Time: 2024-06-19 11:32:19
+Items:
+app: $5.00
+Subtotal: $5.00
+Tax: $0.40
+Total: $5.40
